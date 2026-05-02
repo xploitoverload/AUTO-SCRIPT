@@ -7,7 +7,7 @@ export PATH
 #	Description: BBR+BBRmagic version+BBRplus+Lotserver
 #	Version: 1.4.0
 #	Author: NETWORK 
-#	Channel: https://t.me/xploitoverload
+#	Channel: https://github.com/xploitoverload
 #       translation into english by xploitoverload
 #=================================================
 
